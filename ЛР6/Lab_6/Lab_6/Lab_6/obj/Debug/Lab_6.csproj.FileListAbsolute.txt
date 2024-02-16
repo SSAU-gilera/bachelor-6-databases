@@ -1,0 +1,16 @@
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\bin\Debug\Lab_6.exe.config
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\bin\Debug\Lab_6.exe
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\bin\Debug\Lab_6.pdb
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.csprojAssemblyReference.cache
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.Form1.resources
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.Properties.Resources.resources
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.csproj.GenerateResource.cache
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.exe
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.pdb
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.Attitude.resources
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.Decision.resources
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.Incidents.resources
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.Participant.resources
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.PI.resources
+C:\Users\Maria\OneDrive\Документы\БД\6 семак\Вариант12\ЛР6\Lab_6\Lab_6\obj\Debug\Lab_6.Type.resources
